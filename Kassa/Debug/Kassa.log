@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\devcomp\desktop\kassa\kassa\source.cpp(36): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\devcomp\desktop\kassa\kassa\source.cpp(61): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+c:\users\devcomp\desktop\kassa\kassa\source.cpp(76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\devcomp\desktop\kassa\kassa\source.cpp(64): warning C4101: kod_tovaru: неиспользованная локальная переменная
+  Kassa.vcxproj -> C:\Users\devcomp\Desktop\Kassa\Debug\Kassa.exe
